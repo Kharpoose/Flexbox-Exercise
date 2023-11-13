@@ -10,6 +10,11 @@
   margin-bottom: 25px;
 }
 
+.aha {
+    background-color: lightblue; 
+            width: 50px;
+}
+
 .third {
   display: flex;
   flex-direction: row;
